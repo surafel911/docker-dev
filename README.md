@@ -1,15 +1,15 @@
 # Table of Contents
-## [Quick Links](#Quick Links)
+## [Quick Links](#Quick-Links)
 ## [Introduction](#Introduction)
 ### [Docker](#Docker)
 ### [Containers](#Containers)
-### [Docker Engine](#Docker Engine)
-### [Docker Compose](#Docker Compose)
-## [Docker Tips](#Docker Tips)
+### [Docker Engine](#Docker-Engine)
+### [Docker Compose](#Docker-Compose)
+## [Docker Tips](#Docker-Tips)
 ### [Docker](#Docker)
 ### [Containers](#Containers)
 ### [Dockerfile](#Dockerfile)
-#### [Multistage Builds](#Multistage Builds)
+#### [Multistage Builds](#Multistage-Builds)
 
 
 # Quick Links
